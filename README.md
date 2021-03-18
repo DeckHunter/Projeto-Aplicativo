@@ -1,6 +1,6 @@
 # Projeto-Aplicativo
 
-É esse é um projeto que estou desenvolvendo sozinho.
+Esse é um projeto que estou desenvolvendo sozinho.
 
 # Utilidade
 
