@@ -8,6 +8,6 @@ Consiste em uma aplicação de cadastro de academias, onde o dono de uma academi
 adicionar um ou mais academias pra divulgação, e através do aplicativo os clientes
 poderão se matricular em uma academia e efetuar o pagamento pelo o proprio aplicativo.
 
-# Estado
+# Estado Do Projeto
 
-Atualmente parado por conta de alguns problemas
+[ Em Andamento ]Atualmente parado por conta de alguns problemas
