@@ -10,4 +10,4 @@ poderão se matricular em uma academia e efetuar o pagamento pelo o proprio apli
 
 # Estado Do Projeto
 
-[ Em Andamento ]Atualmente parado por conta de alguns problemas
+[ Em Andamento ] Atualmente parado por conta de alguns problemas
