@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519724949403",
+    "firebase_url": "https://minha-academia-54e17.firebaseio.com",
+    "project_id": "minha-academia-54e17",
+    "storage_bucket": "minha-academia-54e17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519724949403:android:66c9079514b79156468b3e",
+        "android_client_info": {
+          "package_name": "com.example.deckdeveloper.minhaacademia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519724949403-lmm1k259cu3vpq8jdtinrhr7c61goog8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deckdeveloper.minhaacademia",
+            "certificate_hash": "6517f344b9a4cdeb7e02876bd39fa77af04302c9"
+          }
+        },
+        {
+          "client_id": "519724949403-77gim0g7armbhdoli8nmqjm0acclutqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWnplsxOVVriO2nEOvCsXY4rbvwVjv1S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519724949403-77gim0g7armbhdoli8nmqjm0acclutqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
